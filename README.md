@@ -4,6 +4,14 @@
 
 Architecture detection, drift and migration planning contracts for Durin projects.
 
+## Cross-repo workloads integration
+
+The **canonical** transversal spec for Durin workloads (Core, presets, Forge, app, installer, Mithril, Eregion) is maintained here:
+
+- [`docs/specs/durin-workloads-integration-master-spec.md`](docs/specs/durin-workloads-integration-master-spec.md)
+
+Per-repository implementation specs remain in each package’s `docs/` tree (see *Spec index* in the master document).
+
 ## What this package owns
 
 - Architecture state / target models
